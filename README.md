@@ -67,4 +67,3 @@ npx gh-pages -d build
 
 ---
 
-MUN VI — Where global minds converge.
